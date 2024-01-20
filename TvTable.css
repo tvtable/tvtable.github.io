@@ -1,0 +1,59 @@
+ .u-section-1 {
+  background-image: url("images/pobrane.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 413px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 28px auto 0 0;
+}
+
+.u-section-1 .u-group-elements-1 {
+  width: 264px;
+  min-height: 192px;
+  height: auto;
+  margin: 39px auto 60px 0;
+}
+
+.u-section-1 .u-image-1 {
+  height: 149px;
+  --radius: 40px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.875rem;
+  margin: 7px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 341px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 261px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 196px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 123px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1.5rem;
+  }
+}
