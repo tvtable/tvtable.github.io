@@ -1,0 +1,123 @@
+ .u-section-1 {
+  background-image: url("images/pobrane.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 786px;
+}
+
+.u-section-1 .u-btn-1 {
+  --radius: 6px;
+  font-weight: 700;
+  font-size: 0.9375rem;
+  background-image: none;
+  margin: 50px auto 0 238px;
+  padding: 16px 292px 17px 291px;
+}
+
+.u-section-1 .u-custom-html-1 {
+  height: auto;
+  min-height: 532px;
+  margin: 17px -342px 0 238px;
+}
+
+.u-section-1 .u-btn-2 {
+  --radius: 6px;
+  font-weight: 700;
+  font-size: 0.9375rem;
+  background-image: linear-gradient(to right, #478ac9, #db545a);
+  margin: -27px 263px 0 auto;
+  padding: 15px 59px 16px 57px;
+}
+
+.u-section-1 .u-btn-3 {
+  --radius: 6px;
+  font-weight: 700;
+  font-size: 0.9375rem;
+  background-image: linear-gradient(to right, #db545a, #478ac9);
+  margin: -55px auto 60px 238px;
+  padding: 15px 59px 16px 57px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 648px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 38px;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    margin-right: 0;
+    margin-left: 38px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-right: 63px;
+  }
+
+  .u-section-1 .u-btn-3 {
+    margin-left: 38px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 496px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-btn-3 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 372px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 744px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: 0;
+    padding-right: 142px;
+    padding-left: 141px;
+  }
+
+  .u-section-1 .u-custom-html-1 {
+    min-height: 487px;
+    margin-top: 22px;
+    margin-right: -166px;
+    margin-left: -136px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-top: 3px;
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+
+  .u-section-1 .u-btn-3 {
+    padding-right: 24px;
+    padding-bottom: 17px;
+    padding-left: 22px;
+  }
+}
